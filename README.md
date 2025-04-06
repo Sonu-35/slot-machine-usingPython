@@ -18,7 +18,7 @@ Simple CLI interface
 bash
 Copy
 Edit
-git clone https://github.com/your-username/slot-machine-game.git
+git clone [https://github.com/your-username/slot-machine-game.git](https://github.com/Sonu-35/slot-machine-usingPython/tree/main)
 cd slot-machine-game
 2. Run the Game
 Make sure you have Python installed (version 3.x recommended):
